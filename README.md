@@ -1,36 +1,35 @@
-# Python Data & Automation Projects
+# Data Structures Projects
 
-This repository contains 4 beginner-friendly Python projects focused on data handling, automation, and analysis using libraries like Pandas and NumPy.
+This repository contains 4 Python mini-projects based on data structures like lists, dictionaries, stacks, and queues.
 
 ## Projects Included
 
-### 1. Automated Data Collector
-- Collects user data automatically
-- Stores and organizes input data
-- Demonstrates automation basics
+### 1. To-Do List Manager
+- Add, remove, and view tasks
+- Uses Python lists for task management
 
-### 2. Sales Dataset Analyzer
-- Reads sales data from CSV files
-- Calculates total and average sales
-- Sorts sales data using Pandas
+### 2. Student Database System
+- Stores student records using dictionaries
+- Search and update student details
 
-### 3. NumPy Statistics Dashboard
-- Uses NumPy for statistical calculations
-- Finds mean, median, maximum, and minimum values
-- Helps understand numerical data analysis
+### 3. Stack Simulator
+- Implements stack operations (push, pop, peek)
+- Demonstrates LIFO (Last In First Out)
 
-### 4. Student Marks Analyzer with Pandas
-- Reads student marks from CSV
-- Filters pass/fail students
-- Sorts by marks
-- Adds grade column using apply()
-- Exports cleaned data into a new CSV file
+### 4. Word Frequency Counter
+- Counts the frequency of words in a sentence
+- Uses dictionaries for data storage and analysis
+
+## Concepts Covered
+- Lists
+- Dictionaries
+- Stacks
+- Queues
+- Searching
+- Sorting
 
 ## Technologies Used
 - Python
-- Pandas
-- NumPy
-- CSV Handling
 
 ## Purpose
-These projects are created to practice Python for data analysis and automation while building practical mini-projects.
+These projects are built to strengthen understanding of data structures and improve problem-solving skills using Python.
